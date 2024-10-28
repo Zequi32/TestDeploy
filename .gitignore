@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+Thumbs.db
+NTUSER.*
+*.log
+*.ini
+
+# Node modules
+node_modules/
+
+# User files
+/Desktop/
+/Downloads/
+/Pictures/
+/Music/
+/Videos/
+
+# Configuration and sensitive files
+.bash_history
+.ssh/
+.gitconfig
+.vscode/
